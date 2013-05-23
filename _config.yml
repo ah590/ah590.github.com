@@ -2,18 +2,18 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ah590.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: http://google.com/search
+url: http://alexandrahancock.com
+title: Alexandra Hancock
+# subtitle: A blogging framework for hackers.
+author: Alexandra Hancock
+# simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%o %B"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: ah590
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
