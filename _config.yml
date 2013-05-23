@@ -4,9 +4,9 @@
 
 url: http://alexandrahancock.com
 title: Alexandra Hancock
-# subtitle: A blogging framework for hackers.
+subtitle: # A blogging framework for hackers.
 author: Alexandra Hancock
-# simple_search: http://google.com/search
+simple_search: # http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
